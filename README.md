@@ -4,13 +4,13 @@ Booking appointment systems, either online or through traditional queueing syste
 
 System Modules
 
-Admin: 
+Admin:
 ● Add Teacher
 ○ Name, Department, subject, etc 
 ● Update/Delete Teacher
 ● Approve Registration Student
 
-Teacher: 
+Teacher:
 ● Login
 ● Schedule Appointment 
 ● Approve/cancel Appointment 
@@ -30,7 +30,3 @@ Database:
 
 Deployment:
 ● Student-Teacher Booking Appointment model is deploy in the cloud platform Render
-
-
-
- 
