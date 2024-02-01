@@ -4,11 +4,11 @@ Booking appointment systems, either online or through traditional queueing syste
 
 System Modules
 
-Admin:
-● Add Teacher
-● Name, Department, subject, etc 
-● Update/Delete Teacher
-● Approve Registration Student
+Admin:  
+● Add Teacher  
+● Name, Department, subject, etc   
+● Update/Delete Teacher  
+● Approve Registration Student  
 
 Teacher:  
 ● Login  
