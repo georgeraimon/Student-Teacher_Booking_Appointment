@@ -6,27 +6,27 @@ System Modules
 
 Admin:
 ● Add Teacher
-○ Name, Department, subject, etc 
+● Name, Department, subject, etc 
 ● Update/Delete Teacher
 ● Approve Registration Student
 
-Teacher:
-● Login
-● Schedule Appointment 
-● Approve/cancel Appointment 
-● View Messages
-● View All Appointment
-● Logout
+Teacher:  
+● Login  
+● Schedule Appointment   
+● Approve/cancel Appointment   
+● View Messages  
+● View All Appointment  
+● Logout  
 
-Student:
-● Register
-● Login
-● Search Teacher
-● Book Appointment
-○ Send Message
+Student:  
+● Register  
+● Login  
+● Search Teacher  
+● Book Appointment  
+● Send Message  
 
-Database:
-● FireBase.
+Database:  
+● FireBase  
 
-Deployment:
-● Student-Teacher Booking Appointment model is deploy in the cloud platform Render
+Deployment:  
+● Student-Teacher Booking Appointment model is deploy in the cloud platform Render  
