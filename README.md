@@ -28,5 +28,3 @@ Student:
 Database:  
 ● FireBase  
 
-Deployment:  
-● Student-Teacher Booking Appointment web app is deploy in the cloud platform Render  
